@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26345" started-at="2019-12-06T15:03:31Z" finished-at="2019-12-06T15:03:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26345" started-at="2019-12-06T15:03:31Z" finished-at="2019-12-06T15:03:58Z">
+      <class name="Com.E2M.CMS_Event2MobileTest.CMS_Event2mobileTest">
+        <test-method status="PASS" signature="configBc()[pri:0, instance:Com.E2M.CMS_Event2MobileTest.CMS_Event2mobileTest@667a738]" name="configBc" is-config="true" duration-ms="5111" started-at="2019-12-06T20:33:31Z" finished-at="2019-12-06T20:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method status="PASS" signature="configBm()[pri:0, instance:Com.E2M.CMS_Event2MobileTest.CMS_Event2mobileTest@667a738]" name="configBm" is-config="true" duration-ms="17665" started-at="2019-12-06T20:33:36Z" finished-at="2019-12-06T20:33:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBm -->
+        <test-method status="PASS" signature="CMS_E2MTest()[pri:0, instance:Com.E2M.CMS_Event2MobileTest.CMS_Event2mobileTest@667a738]" name="CMS_E2MTest" duration-ms="9" started-at="2019-12-06T20:33:54Z" finished-at="2019-12-06T20:33:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CMS_E2MTest -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:Com.E2M.CMS_Event2MobileTest.CMS_Event2mobileTest@667a738]" name="configAm" is-config="true" duration-ms="2420" started-at="2019-12-06T20:33:54Z" finished-at="2019-12-06T20:33:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAc()[pri:0, instance:Com.E2M.CMS_Event2MobileTest.CMS_Event2mobileTest@667a738]" name="configAc" is-config="true" duration-ms="1126" started-at="2019-12-06T20:33:57Z" finished-at="2019-12-06T20:33:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- Com.E2M.CMS_Event2MobileTest.CMS_Event2mobileTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
